@@ -2,7 +2,7 @@ import tkinter as tk
 
 #creamos la ventgana principal
 ventana= tk.Tk()
-#le damoss un titulo a la ventana
+#le damos un titulo a la ventana
 ventana.title("Mi primera aplicacion")
 #Le damos un tamano a la ventana 
 ventana.geometry("480x300")
